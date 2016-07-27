@@ -4,8 +4,8 @@
 
 
 
-No| Title | Solution | Difficulty
---|-------|----------|----------- 
+ No | Title | Solution | Difficulty
+ --|-------|----------|----------- 
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](algorithms/Go/reverse.go) | Easy
 6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](algorithms/Go/zigZagConversion.go) | Easy
 5 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | Medium
