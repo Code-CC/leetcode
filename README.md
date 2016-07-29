@@ -5,6 +5,8 @@
 
 No | Title | Solution | Difficulty
 ---|-------|----------|----------- 
+9  | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | [Go](algorithms/Go/palindromeNumber.go) | Easy
+8  | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/) | [Go](algorithms/Go/myAtoi.go) | Easy
 7  | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | [Go](algorithms/Go/reverse.go) | Easy
 6  | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Go](algorithms/Go/zigZagConversion.go) | Easy
 5  | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | | Medium
