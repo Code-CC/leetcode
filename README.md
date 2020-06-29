@@ -1,5 +1,11 @@
 # LeetCode
 
+### Learn
+
+* [Array](learn/array)
+
+
+***
 ### LeetCode Algorithm
 
 
